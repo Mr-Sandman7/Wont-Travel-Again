@@ -1,0 +1,1 @@
+In this project we consider the process of hotel booking for different types of customers. While the data is so large I have not uploaded here and you can find here: https://drive.google.com/file/d/1jIl8uXsrdRz3ZBxljjQNo0ssDT8LbJBx/view?usp=sharing
